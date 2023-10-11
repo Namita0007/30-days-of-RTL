@@ -34,4 +34,10 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/6070d195-4adb-49a0-b893-4bb25a7345a4)
 
 
+**4 bit BCD addition using 4-bit ripple carry adder**
+//simulation results 
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/a13a7dcf-a734-4275-8cd7-01742851c7e9)
+
+
 
