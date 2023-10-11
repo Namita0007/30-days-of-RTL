@@ -22,3 +22,16 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/ed5b4911-eba3-430b-8bf4-6556011a5429)
 
+**Full subtractor using Full Adder**
+//simulation results
+
+//used random function
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/847853a3-9da1-490f-ae1f-23cd7c77787f)
+
+//displayed results in command window
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/6070d195-4adb-49a0-b893-4bb25a7345a4)
+
+
+
