@@ -14,3 +14,11 @@
 
 //used random function for generation of stimuli
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/f512bc32-d191-4fd5-a7d0-cd3e30554fda)
+
+**4-bit Ripple carry Adder**
+//simulation results
+
+//used random function for generation of stimuli (using concatenation operator)
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/ed5b4911-eba3-430b-8bf4-6556011a5429)
+
