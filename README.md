@@ -9,3 +9,8 @@
 //Used random function for generation of stimuli
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/bf027546-ab3e-477b-a189-5f099de6c9d6)
 
+**Full Adder using Dataflow modelling**
+//Simulation Results
+
+//used random function for generation of stimuli
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/f512bc32-d191-4fd5-a7d0-cd3e30554fda)
