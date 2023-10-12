@@ -34,6 +34,7 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/6070d195-4adb-49a0-b893-4bb25a7345a4)
 
 
+
 **4 bit BCD addition using 4-bit ripple carry adder**
 //simulation results 
 
@@ -45,6 +46,13 @@
 //simulation results
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/58382eb5-d67f-4b6a-b73c-f05d7a693fee)
+
+
+**32 bit adder-subtractor circuit using generate for creating instances**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/f59292a7-5e3a-41f2-89a3-24e105be2eac)
+
 
 
 
