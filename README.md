@@ -41,7 +41,7 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/a13a7dcf-a734-4275-8cd7-01742851c7e9)
 
 
-**8 bit carry select adder**
+**DAY 2** **8 bit carry select adder**
 //8 bit carry select adder do faster computation than ripple carry adder. Here, we'll use 3 ripple carry adders. 1 ripple carry adder for lower 4 bit addition. 2 ripple carry adders for higher 4 bits (in one case, we'll take c_in as 0 and in another case we'll use c_in as 1). Use Mux to select one the the sum and carry based on the carry_out from first ripple carry adder.
 //simulation results
 
@@ -58,7 +58,7 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/2f9a1dc5-e3a4-48cc-8745-eab6b017912a)
 
-**Basic logic gates using 2:1 multiplexer**
+**DAY 3****Basic logic gates using 2:1 multiplexer**
 //simulation results
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/8d0e848c-adde-41b6-bd4d-b7a5fe0410b7)
