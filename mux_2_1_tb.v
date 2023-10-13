@@ -1,19 +1,16 @@
-module mux_2_1();
-reg [1:0] in;
+module mux_2_1_tb();
+reg in_0, in_1;
 reg sel;
 wire out;
+integer i;
 
 mux_2_1 DUT(in,sel,out);
-initial
-begin
-    in=2'b00; sel=1'b0;
-    in=2'b00; sel=1'b1;
-    in=2'b01; sel=1'b0;
-    in=2'b01; sel=1'b1;
-    in=2'b10; sel=1'b0;
-    in=2'b10; sel=1'b1;
-    in=2'b11; sel=1'b0;
-    in=2'b11; sel=1'b1;
+initial begin
+        for (i=0;i<50;i=i+1)
+        begin
+            {in_0,in_1}={$random}%4;
+            sel={$random}%2;
+    end
 end
 
 endmodule
