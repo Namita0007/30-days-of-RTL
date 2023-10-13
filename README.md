@@ -74,6 +74,13 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/bcb1f573-c474-487e-9226-b80d438e8689)
 
 
+**1:8 demultiplexers**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/dc6d03b7-f23a-44a8-8837-2be7eba6a728)
+
+
+
 
 
 
