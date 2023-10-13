@@ -58,6 +58,12 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/2f9a1dc5-e3a4-48cc-8745-eab6b017912a)
 
+**Basic logic gates using 2:1 multiplexer**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/8d0e848c-adde-41b6-bd4d-b7a5fe0410b7)
+
+
 
 
 
