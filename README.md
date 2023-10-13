@@ -63,6 +63,12 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/8d0e848c-adde-41b6-bd4d-b7a5fe0410b7)
 
+**Full adder using 2:1 multiplexers**
+/simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/475350ea-f970-40b0-98b1-9d13505803ed)
+
+
 
 
 
