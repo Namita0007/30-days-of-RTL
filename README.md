@@ -53,6 +53,11 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/f59292a7-5e3a-41f2-89a3-24e105be2eac)
 
+**4:1 multiplexer using 2:1 multiplexers**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/2f9a1dc5-e3a4-48cc-8745-eab6b017912a)
+
 
 
 
