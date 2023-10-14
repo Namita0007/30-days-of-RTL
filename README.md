@@ -80,6 +80,13 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/dc6d03b7-f23a-44a8-8837-2be7eba6a728)
 
 
+**DAY 4****Logic gates using 1:4 demultiplexers**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/2b566d46-0820-4ae1-aaa6-0ca038b12200)
+
+
+
 
 
 
