@@ -92,6 +92,13 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/941ed8ae-7eaf-46a6-98d5-77d7d8f1b996)
 
 
+**8:3 priority encoder**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/e32c0e86-6264-4bee-b21b-8257a9e951a2)
+
+
+
 
 
 
