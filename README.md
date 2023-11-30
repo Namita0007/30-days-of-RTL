@@ -114,6 +114,11 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/89167d5c-6283-44ce-a4f5-b47037538ec3)
 
+**Binary to one hot coding**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/5dd0172b-1f67-4e7b-8e53-f2bb829bd8dd)
+
 
 
 
