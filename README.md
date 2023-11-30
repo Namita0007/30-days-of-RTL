@@ -98,6 +98,14 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/e32c0e86-6264-4bee-b21b-8257a9e951a2)
 
 
+**4:2 priority encoder using case**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/56df7893-bf6d-4b0d-b0a0-bfe3ab8251d4)
+
+
+
+
 
 
 
