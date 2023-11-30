@@ -109,6 +109,13 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/1dcf3d35-6ccf-41d5-a19c-9ac58f4609eb)
 
 
+**4bit gray to binary converter**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/89167d5c-6283-44ce-a4f5-b47037538ec3)
+
+
+
 
 
 
