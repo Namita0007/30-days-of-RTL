@@ -136,6 +136,12 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/312b479b-4a49-4122-8fd7-cbbd67de1274)
 
+**3:8 decoder**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/f587c7d9-6b86-4d9c-9ddd-c9f96a395c30)
+
+
 
 
 
