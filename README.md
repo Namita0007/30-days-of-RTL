@@ -120,6 +120,11 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/5dd0172b-1f67-4e7b-8e53-f2bb829bd8dd)
 
 
+**Square of N bit number**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/a266db17-fa6c-46a0-9b9e-3e5a220e8da6)
+
 
 
 
