@@ -131,6 +131,12 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/35b7922c-521c-4517-b218-5a4a2cdc0af2)
 
+**2 bit comparator**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/312b479b-4a49-4122-8fd7-cbbd67de1274)
+
+
 
 
 
