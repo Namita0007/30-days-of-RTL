@@ -142,6 +142,13 @@
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/f587c7d9-6b86-4d9c-9ddd-c9f96a395c30)
 
 
+**Logic gates using 2:4 decoder**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/d4d52c02-27d8-4fa0-ae9f-0ec1866731f5)
+
+
+
 
 
 
