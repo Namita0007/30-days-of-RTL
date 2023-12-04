@@ -152,6 +152,12 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/2ace221d-5cc0-462a-9399-f86ce2369bb3)
 
+**3 i/p majority circuit**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/adb3fbdb-e617-4fd1-8880-28eeccdb7e8e)
+
+
 
 
 
