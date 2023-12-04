@@ -147,6 +147,12 @@
 
 ![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/d4d52c02-27d8-4fa0-ae9f-0ec1866731f5)
 
+**DAY 6 Half Subtractor**
+//simulation results
+
+![image](https://github.com/Namita0007/30-days-of-RTL/assets/95399425/2ace221d-5cc0-462a-9399-f86ce2369bb3)
+
+
 
 
 
